@@ -1,0 +1,76 @@
+header {
+    text-align: center;
+    width: 100%;
+    border: 15px solid green;
+    padding: 50px;
+    width: calc(100% - 130px);
+}
+
+nav {
+    text-align: center;
+    width: calc(100% - 130px);
+    border: 15px solid green;
+    padding: 50px;
+}
+
+.container {
+    margin: 5px;
+}
+
+section {
+    text-align: center;
+    height: 500px;
+    position: relative;
+    border: 1px solid black;
+    width: 45%;
+    overflow: auto;
+    color: #fff;
+    background: #394549;
+    float: left;
+    margin-right: calc(10% - 4px);
+}
+
+article {
+    text-align: center;
+    height: 80%;
+    border: 15px solid green;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    width: 85%;
+    border: 8px solid forestgreen;
+    padding: 5px;
+}
+
+P {
+    text-align: center;
+    width: 85%;
+    height: 40%;
+    border: 8px solid forestgreen;
+    padding: 5px;
+}
+
+Aside {
+    text-align: center;
+    height: 500px;
+    position: relative;
+    border: 1px solid black;
+    width: 45%;
+    overflow: auto;
+    color: #fff;
+    background: #394549;
+    display: inline-block;
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    width: 100%;
+    border: 15px solid green;
+    padding: 5px;
+    width: calc(100% - 40px);
+    margin-top: 100px;
+}
